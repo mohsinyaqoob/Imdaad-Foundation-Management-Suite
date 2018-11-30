@@ -1,0 +1,36 @@
+C:\Users\Mohsin Khan\Documents\Visual Studio 2015\Projects\CharityManagementStudio\CharityManagementStudio\bin\Debug\CharityManagementStudio.exe.config
+C:\Users\Mohsin Khan\Documents\Visual Studio 2015\Projects\CharityManagementStudio\CharityManagementStudio\bin\Debug\CharityManagementStudio.exe
+C:\Users\Mohsin Khan\Documents\Visual Studio 2015\Projects\CharityManagementStudio\CharityManagementStudio\bin\Debug\CharityManagementStudio.pdb
+C:\Users\Mohsin Khan\Documents\Visual Studio 2015\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.FormAdminLogin.resources
+C:\Users\Mohsin Khan\Documents\Visual Studio 2015\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Properties.Resources.resources
+C:\Users\Mohsin Khan\Documents\Visual Studio 2015\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormMainPage.resources
+C:\Users\Mohsin Khan\Documents\Visual Studio 2015\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.MainScreen.resources
+C:\Users\Mohsin Khan\Documents\Visual Studio 2015\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.RegisterNewAdminForm.resources
+C:\Users\Mohsin Khan\Documents\Visual Studio 2015\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.csproj.GenerateResource.Cache
+C:\Users\Mohsin Khan\Documents\Visual Studio 2015\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.exe
+C:\Users\Mohsin Khan\Documents\Visual Studio 2015\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.pdb
+E:\UpdateCharityManagementStudio\CharityManagementStudio\bin\Debug\CharityManagementStudio.exe.config
+E:\UpdateCharityManagementStudio\CharityManagementStudio\bin\Debug\CharityManagementStudio.exe
+E:\UpdateCharityManagementStudio\CharityManagementStudio\bin\Debug\CharityManagementStudio.pdb
+E:\UpdateCharityManagementStudio\CharityManagementStudio\bin\Debug\CsQuery.dll
+E:\UpdateCharityManagementStudio\CharityManagementStudio\bin\Debug\itextsharp.dll
+E:\UpdateCharityManagementStudio\CharityManagementStudio\bin\Debug\Nitin.Sms.Api.dll
+E:\UpdateCharityManagementStudio\CharityManagementStudio\bin\Debug\SmsClient.dll
+E:\UpdateCharityManagementStudio\CharityManagementStudio\bin\Debug\CsQuery.xml
+E:\UpdateCharityManagementStudio\CharityManagementStudio\bin\Debug\itextsharp.xml
+E:\UpdateCharityManagementStudio\CharityManagementStudio\bin\Debug\Nitin.Sms.Api.pdb
+E:\UpdateCharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.csprojResolveAssemblyReference.cache
+E:\UpdateCharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormDonors.resources
+E:\UpdateCharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormGenerateTransaction.resources
+E:\UpdateCharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.FormAdminLogin.resources
+E:\UpdateCharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Properties.Resources.resources
+E:\UpdateCharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormMainProfile.resources
+E:\UpdateCharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormMessaging.resources
+E:\UpdateCharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormNewCase.resources
+E:\UpdateCharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormRegisterAdmin.resources
+E:\UpdateCharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormTeamImdaad.resources
+E:\UpdateCharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormUpdateCase.resources
+E:\UpdateCharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormViewAllCases.resources
+E:\UpdateCharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.csproj.GenerateResource.Cache
+E:\UpdateCharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.exe
+E:\UpdateCharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.pdb

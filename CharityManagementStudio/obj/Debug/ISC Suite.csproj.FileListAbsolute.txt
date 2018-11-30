@@ -1,0 +1,141 @@
+D:\NIIT\IF SUITE DEVELOP\UpdateCharityManagementStudio\CharityManagementStudio\bin\Debug\CharityManagementStudio.exe.config
+D:\NIIT\IF SUITE DEVELOP\UpdateCharityManagementStudio\CharityManagementStudio\bin\Debug\CharityManagementStudio.exe.manifest
+D:\NIIT\IF SUITE DEVELOP\UpdateCharityManagementStudio\CharityManagementStudio\bin\Debug\CharityManagementStudio.application
+D:\NIIT\IF SUITE DEVELOP\UpdateCharityManagementStudio\CharityManagementStudio\bin\Debug\CharityManagementStudio.exe
+D:\NIIT\IF SUITE DEVELOP\UpdateCharityManagementStudio\CharityManagementStudio\bin\Debug\CharityManagementStudio.pdb
+D:\NIIT\IF SUITE DEVELOP\UpdateCharityManagementStudio\CharityManagementStudio\bin\Debug\CsQuery.dll
+D:\NIIT\IF SUITE DEVELOP\UpdateCharityManagementStudio\CharityManagementStudio\bin\Debug\itextsharp.dll
+D:\NIIT\IF SUITE DEVELOP\UpdateCharityManagementStudio\CharityManagementStudio\bin\Debug\itextsharp.pdfa.dll
+D:\NIIT\IF SUITE DEVELOP\UpdateCharityManagementStudio\CharityManagementStudio\bin\Debug\itextsharp.xmlworker.dll
+D:\NIIT\IF SUITE DEVELOP\UpdateCharityManagementStudio\CharityManagementStudio\bin\Debug\itextsharp.xtra.dll
+D:\NIIT\IF SUITE DEVELOP\UpdateCharityManagementStudio\CharityManagementStudio\bin\Debug\LiveCharts.dll
+D:\NIIT\IF SUITE DEVELOP\UpdateCharityManagementStudio\CharityManagementStudio\bin\Debug\Nitin.Sms.Api.dll
+D:\NIIT\IF SUITE DEVELOP\UpdateCharityManagementStudio\CharityManagementStudio\bin\Debug\SmsClient.dll
+D:\NIIT\IF SUITE DEVELOP\UpdateCharityManagementStudio\CharityManagementStudio\bin\Debug\CsQuery.xml
+D:\NIIT\IF SUITE DEVELOP\UpdateCharityManagementStudio\CharityManagementStudio\bin\Debug\itextsharp.xml
+D:\NIIT\IF SUITE DEVELOP\UpdateCharityManagementStudio\CharityManagementStudio\bin\Debug\LiveCharts.pdb
+D:\NIIT\IF SUITE DEVELOP\UpdateCharityManagementStudio\CharityManagementStudio\bin\Debug\LiveCharts.xml
+D:\NIIT\IF SUITE DEVELOP\UpdateCharityManagementStudio\CharityManagementStudio\bin\Debug\Nitin.Sms.Api.pdb
+D:\NIIT\IF SUITE DEVELOP\UpdateCharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormBackup.resources
+D:\NIIT\IF SUITE DEVELOP\UpdateCharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormDonors.resources
+D:\NIIT\IF SUITE DEVELOP\UpdateCharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormGenerateTransaction.resources
+D:\NIIT\IF SUITE DEVELOP\UpdateCharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.FormAdminLogin.resources
+D:\NIIT\IF SUITE DEVELOP\UpdateCharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Properties.Resources.resources
+D:\NIIT\IF SUITE DEVELOP\UpdateCharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormMainProfile.resources
+D:\NIIT\IF SUITE DEVELOP\UpdateCharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormMessaging.resources
+D:\NIIT\IF SUITE DEVELOP\UpdateCharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormNewCase.resources
+D:\NIIT\IF SUITE DEVELOP\UpdateCharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormRegisterAdmin.resources
+D:\NIIT\IF SUITE DEVELOP\UpdateCharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormStartScreenInfo.resources
+D:\NIIT\IF SUITE DEVELOP\UpdateCharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormTeamImdaad.resources
+D:\NIIT\IF SUITE DEVELOP\UpdateCharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormUpdateCase.resources
+D:\NIIT\IF SUITE DEVELOP\UpdateCharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormViewAllCases.resources
+D:\NIIT\IF SUITE DEVELOP\UpdateCharityManagementStudio\CharityManagementStudio\obj\Debug\ISC Suite.csproj.GenerateResource.Cache
+D:\NIIT\IF SUITE DEVELOP\UpdateCharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.exe.manifest
+D:\NIIT\IF SUITE DEVELOP\UpdateCharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.application
+D:\NIIT\IF SUITE DEVELOP\UpdateCharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.exe
+D:\NIIT\IF SUITE DEVELOP\UpdateCharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.pdb
+C:\Users\Mohsin Khan\Documents\Visual Studio 2015\Projects\CharityManagementStudio\CharityManagementStudio\bin\Debug\data\NEW_IF_DB.mdf
+C:\Users\Mohsin Khan\Documents\Visual Studio 2015\Projects\CharityManagementStudio\CharityManagementStudio\bin\Debug\data\NEW_IF_DB_log.ldf
+C:\Users\Mohsin Khan\Documents\Visual Studio 2015\Projects\CharityManagementStudio\CharityManagementStudio\bin\Debug\CharityManagementStudio.exe
+C:\Users\Mohsin Khan\Documents\Visual Studio 2015\Projects\CharityManagementStudio\CharityManagementStudio\bin\Debug\CsQuery.dll
+C:\Users\Mohsin Khan\Documents\Visual Studio 2015\Projects\CharityManagementStudio\CharityManagementStudio\bin\Debug\itextsharp.dll
+C:\Users\Mohsin Khan\Documents\Visual Studio 2015\Projects\CharityManagementStudio\CharityManagementStudio\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Mohsin Khan\Documents\Visual Studio 2015\Projects\CharityManagementStudio\CharityManagementStudio\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\Mohsin Khan\Documents\Visual Studio 2015\Projects\CharityManagementStudio\CharityManagementStudio\bin\Debug\itextsharp.xtra.dll
+C:\Users\Mohsin Khan\Documents\Visual Studio 2015\Projects\CharityManagementStudio\CharityManagementStudio\bin\Debug\LiveCharts.dll
+C:\Users\Mohsin Khan\Documents\Visual Studio 2015\Projects\CharityManagementStudio\CharityManagementStudio\bin\Debug\Nitin.Sms.Api.dll
+C:\Users\Mohsin Khan\Documents\Visual Studio 2015\Projects\CharityManagementStudio\CharityManagementStudio\bin\Debug\SmsClient.dll
+C:\Users\Mohsin Khan\Documents\Visual Studio 2015\Projects\CharityManagementStudio\CharityManagementStudio\bin\Debug\CsQuery.xml
+C:\Users\Mohsin Khan\Documents\Visual Studio 2015\Projects\CharityManagementStudio\CharityManagementStudio\bin\Debug\itextsharp.xml
+C:\Users\Mohsin Khan\Documents\Visual Studio 2015\Projects\CharityManagementStudio\CharityManagementStudio\bin\Debug\LiveCharts.pdb
+C:\Users\Mohsin Khan\Documents\Visual Studio 2015\Projects\CharityManagementStudio\CharityManagementStudio\bin\Debug\LiveCharts.xml
+C:\Users\Mohsin Khan\Documents\Visual Studio 2015\Projects\CharityManagementStudio\CharityManagementStudio\bin\Debug\Nitin.Sms.Api.pdb
+C:\Users\Mohsin Khan\Documents\Visual Studio 2015\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormBackup.resources
+C:\Users\Mohsin Khan\Documents\Visual Studio 2015\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormDonors.resources
+C:\Users\Mohsin Khan\Documents\Visual Studio 2015\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormGenerateTransaction.resources
+C:\Users\Mohsin Khan\Documents\Visual Studio 2015\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.FormAdminLogin.resources
+C:\Users\Mohsin Khan\Documents\Visual Studio 2015\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Properties.Resources.resources
+C:\Users\Mohsin Khan\Documents\Visual Studio 2015\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormMainProfile.resources
+C:\Users\Mohsin Khan\Documents\Visual Studio 2015\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormMessaging.resources
+C:\Users\Mohsin Khan\Documents\Visual Studio 2015\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormNewCase.resources
+C:\Users\Mohsin Khan\Documents\Visual Studio 2015\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormRegisterAdmin.resources
+C:\Users\Mohsin Khan\Documents\Visual Studio 2015\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormStartScreenInfo.resources
+C:\Users\Mohsin Khan\Documents\Visual Studio 2015\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormTeamImdaad.resources
+C:\Users\Mohsin Khan\Documents\Visual Studio 2015\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormUpdateCase.resources
+C:\Users\Mohsin Khan\Documents\Visual Studio 2015\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormViewAllCases.resources
+C:\Users\Mohsin Khan\Documents\Visual Studio 2015\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\ISC Suite.csproj.GenerateResource.Cache
+C:\Users\Mohsin Khan\Documents\Visual Studio 2015\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.exe.manifest
+C:\Users\Mohsin Khan\Documents\Visual Studio 2015\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.application
+C:\Users\Mohsin Khan\Documents\Visual Studio 2015\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.exe
+C:\Users\Mohsin Khan\Documents\Visual Studio 2015\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.pdb
+C:\Users\Mohsin Khan\Documents\Visual Studio 2015\Projects\CharityManagementStudio\CharityManagementStudio\bin\Debug\CharityManagementStudio.exe.config
+C:\Users\Mohsin Khan\Documents\Visual Studio 2015\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\ISC Suite.csprojResolveAssemblyReference.cache
+C:\Users\Mohsin Khan\Documents\Visual Studio 2015\Projects\CharityManagementStudio\CharityManagementStudio\bin\Debug\CharityManagementStudio.exe.manifest
+C:\Users\Mohsin Khan\Documents\Visual Studio 2015\Projects\CharityManagementStudio\CharityManagementStudio\bin\Debug\CharityManagementStudio.application
+C:\Users\Masood Ibraheem\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\bin\Debug\CharityManagementStudio.exe.config
+C:\Users\Masood Ibraheem\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.exe
+C:\Users\Masood Ibraheem\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.pdb
+C:\Users\Masood Ibraheem\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\bin\Debug\data\Database.mdf
+C:\Users\Masood Ibraheem\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\bin\Debug\data\Database_log.ldf
+C:\Users\Masood Ibraheem\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\bin\Debug\CharityManagementStudio.exe.manifest
+C:\Users\Masood Ibraheem\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\bin\Debug\CharityManagementStudio.application
+C:\Users\Masood Ibraheem\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\bin\Debug\CharityManagementStudio.exe
+C:\Users\Masood Ibraheem\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\bin\Debug\CharityManagementStudio.pdb
+C:\Users\Masood Ibraheem\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\bin\Debug\CsQuery.dll
+C:\Users\Masood Ibraheem\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\bin\Debug\itextsharp.dll
+C:\Users\Masood Ibraheem\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\bin\Debug\SmsClient.dll
+C:\Users\Masood Ibraheem\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\bin\Debug\CsQuery.xml
+C:\Users\Masood Ibraheem\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\bin\Debug\itextsharp.xml
+C:\Users\Masood Ibraheem\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\bin\Debug\Nitin.Sms.Api.pdb
+C:\Users\Masood Ibraheem\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\ISC Suite.csprojResolveAssemblyReference.cache
+C:\Users\Masood Ibraheem\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormBackup.resources
+C:\Users\Masood Ibraheem\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormDonors.resources
+C:\Users\Masood Ibraheem\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormGenerateTransaction.resources
+C:\Users\Masood Ibraheem\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.FormAdminLogin.resources
+C:\Users\Masood Ibraheem\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Properties.Resources.resources
+C:\Users\Masood Ibraheem\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormMainProfile.resources
+C:\Users\Masood Ibraheem\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormMessaging.resources
+C:\Users\Masood Ibraheem\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormNewCase.resources
+C:\Users\Masood Ibraheem\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormRegisterAdmin.resources
+C:\Users\Masood Ibraheem\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormStartScreenInfo.resources
+C:\Users\Masood Ibraheem\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormTeamImdaad.resources
+C:\Users\Masood Ibraheem\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormUpdateCase.resources
+C:\Users\Masood Ibraheem\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormViewAllCases.resources
+C:\Users\Masood Ibraheem\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\ISC Suite.csproj.GenerateResource.Cache
+C:\Users\Masood Ibraheem\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.exe.manifest
+C:\Users\Masood Ibraheem\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.application
+C:\Users\Mohsin Khan\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\bin\Debug\photos\TextFile1.txt
+C:\Users\Mohsin Khan\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\bin\Debug\data\Database.mdf
+C:\Users\Mohsin Khan\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\bin\Debug\data\Database_log.ldf
+C:\Users\Mohsin Khan\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\bin\Debug\ISC Suite.exe.config
+C:\Users\Mohsin Khan\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\bin\Debug\ISC Suite.exe.manifest
+C:\Users\Mohsin Khan\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\bin\Debug\ISC Suite.application
+C:\Users\Mohsin Khan\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\bin\Debug\ISC Suite.exe
+C:\Users\Mohsin Khan\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\bin\Debug\ISC Suite.pdb
+C:\Users\Mohsin Khan\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\bin\Debug\CsQuery.dll
+C:\Users\Mohsin Khan\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\bin\Debug\itextsharp.dll
+C:\Users\Mohsin Khan\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\bin\Debug\SmsClient.dll
+C:\Users\Mohsin Khan\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\bin\Debug\CsQuery.xml
+C:\Users\Mohsin Khan\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\bin\Debug\itextsharp.xml
+C:\Users\Mohsin Khan\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormBackup.resources
+C:\Users\Mohsin Khan\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormDevelopersInfo.resources
+C:\Users\Mohsin Khan\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormDonors.resources
+C:\Users\Mohsin Khan\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormGenerateTransaction.resources
+C:\Users\Mohsin Khan\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.FormAdminLogin.resources
+C:\Users\Mohsin Khan\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Properties.Resources.resources
+C:\Users\Mohsin Khan\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormMainProfile.resources
+C:\Users\Mohsin Khan\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormMessaging.resources
+C:\Users\Mohsin Khan\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormNewCase.resources
+C:\Users\Mohsin Khan\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormRegisterAdmin.resources
+C:\Users\Mohsin Khan\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormStartScreenInfo.resources
+C:\Users\Mohsin Khan\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormTeamImdaad.resources
+C:\Users\Mohsin Khan\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormUpdateCase.resources
+C:\Users\Mohsin Khan\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\CharityManagementStudio.Views.FormViewAllCases.resources
+C:\Users\Mohsin Khan\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\ISC Suite.csproj.GenerateResource.Cache
+C:\Users\Mohsin Khan\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\ISC Suite.exe.manifest
+C:\Users\Mohsin Khan\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\ISC Suite.application
+C:\Users\Mohsin Khan\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\ISC Suite.exe
+C:\Users\Mohsin Khan\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\ISC Suite.pdb
+C:\Users\Mohsin Khan\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\obj\Debug\ISC Suite.csprojResolveAssemblyReference.cache
+C:\Users\Mohsin Khan\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\bin\Debug\System.Net.Http.dll
+C:\Users\Mohsin Khan\Documents\Visual Studio 2012\Projects\CharityManagementStudio\CharityManagementStudio\bin\Debug\System.Net.Http.xml
